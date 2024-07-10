@@ -22,3 +22,5 @@ alias cd="z"
 eval $(thefuck --alias)
 eval "$(zoxide init zsh)"
 eval "$(oh-my-posh init zsh --config ~/ohmyposh.omp.json)"
+
+export EDITOR="vim"
